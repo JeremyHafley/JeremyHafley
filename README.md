@@ -84,7 +84,7 @@ Hi, I'm Jeremy.
 <div align="center">
 
   [![](https://img.shields.io/badge/-GMail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:top.coder.jeremy@gmail.com)
-  [![](https://img.shields.io/badge/-Linkedin-EA4335?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-hafley-2936662a9/)
+  [![](https://img.shields.io/badge/-Linkedin-007ACC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-hafley-2936662a9/)
 </div>
 
 </div>
