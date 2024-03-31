@@ -86,8 +86,11 @@ Hi, I'm Jeremy.
   [![](https://img.shields.io/badge/-GMail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:top.coder.jeremy@gmail.com)
   
 </div>
+
+```
 <h3 align="center">GitHub Stats</h3>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JeremyHafley" /> </div>
 <div align="center">
+```
 
 </div>
