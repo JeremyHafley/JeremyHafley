@@ -90,6 +90,6 @@ Hi, I'm Jeremy.
 <h3 align="center">Buy Jeremy a Coffee.</h3>
 <div align="center">
   
- [![][ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y8WFCEM)
+ [![](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y8WFCEM)
 </div>
 </div>
