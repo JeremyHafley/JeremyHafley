@@ -87,4 +87,8 @@ Hi, I'm Jeremy.
   [![](https://img.shields.io/badge/-Linkedin-007ACC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-hafley-2936662a9/)
 </div>
 
+<h3 align="center">Buy Jeremy a Coffee.</h3>
+<div align="center">
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y8WFCEM)
+</div>
 </div>
